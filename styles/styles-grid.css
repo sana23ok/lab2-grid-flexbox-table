@@ -9,7 +9,7 @@ body {
 .parent {
     display: grid;
     grid-template-columns: 20% 60% 20%;
-    grid-template-rows: 17% 5% 56% 5% 17%;
+    grid-template-rows: 19% 5% 53% 5% 18%;
     grid-gap: 0;
     grid-template-areas:
         "header header header"
